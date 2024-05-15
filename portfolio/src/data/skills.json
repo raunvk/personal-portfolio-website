@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png",
+    "url": "https://www.java.com/en/"
+  },
+  {
+    "title": "Spring",
+    "imageSrc": "skills/spring.png",
+    "url": "https://spring.io/"
+  },
+  {
+    "title": "JUnit",
+    "imageSrc": "skills/junit.png",
+    "url": "https://junit.org/junit5/"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png",
+    "url": "https://www.postman.com/"
+  },
+  {
+    "title": "Swagger",
+    "imageSrc": "skills/swagger.png",
+    "url": "https://swagger.io/"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "skills/node.png",
+    "url": "https://nodejs.org/en"
+  },
+  {
+    "title": "ReactJS",
+    "imageSrc": "skills/react.png",
+    "url": "https://react.dev/"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png",
+    "url": "https://html.com/"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png",
+    "url": "https://css3.com/"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png",
+    "url": "https://getbootstrap.com/"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png",
+    "url": "https://www.mongodb.com/"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png",
+    "url": "https://www.mysql.com/"
+  },
+  {
+    "title": "SQLite",
+    "imageSrc": "skills/sqlite.png",
+    "url": "https://www.sqlite.org/"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png",
+    "url": "https://git-scm.com/"
+  }
+]

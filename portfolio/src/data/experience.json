@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Full-Stack Developer",
+    "organisation": "Freelance",
+    "startDate": "Sep 2023",
+    "endDate": "Present",
+    "skills" : "Java, Spring Boot, ReactJS, Bootstrap, MongoDB",
+    "details": [
+    "Expanding skillset through freelance projects (Internshala/Snaphunt), while pursuing full-time opportunities"],
+    "imageSrc": "experience/freelance.png"
+  },
+  {
+    "role": "Developer Analyst",
+    "organisation": "Deloitte",
+    "startDate": "Aug 2022",
+    "endDate": "Aug 2023",
+    "skills" : "Java, Spring Boot, JUnit, Swagger, MySQL",
+    "details": [
+    "Collaborated as a Microservices developer for a healthcare project, enabling diverse metric-based data retrieval"],
+    "imageSrc": "experience/deloitte.png"
+  },
+  {
+    "role": "Systems Engineer",
+    "organisation": "Infosys",
+    "startDate": "Jan 2022",
+    "endDate": "Jul 2022",
+    "skills" : "Java, Spring Boot, ReactJS, Bootstrap, MySQL",
+    "details": [
+      "Contributed as a Full-Stack Developer for a job-portal project, handling both frontend and backend technologies"],
+    "imageSrc": "experience/infosys.png"
+  }
+]

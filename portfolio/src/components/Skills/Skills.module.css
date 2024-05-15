@@ -1,0 +1,90 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  background-color: rgba(12, 12, 12, 0.6);
+  border-radius: 15px;
+  padding: 50px;
+  margin-top: 100px;
+  margin-top: 100px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  padding-bottom: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  cursor: default;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skillsItems {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; 
+  cursor: pointer;
+}
+
+.skillsItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: calc((100% - (7 - 1) * 20px) / 7); 
+  border-radius: 20px;
+  padding: 25px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(165, 215, 235, 0.4) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
+}
+
+.skillsItem:hover {
+  background-size: 100% 100%;
+}
+
+.skillsItem h3 {
+  font-size: 25px;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.skillsItem img {
+  max-width: 85%;
+  max-height: 85%;
+  transition: transform 0.2s ease;
+}
+
+.skillsItem img:hover {
+  transform: scale(1.1); 
+}
+
+@media screen and (max-width: 850px) {
+  .container {
+    background-color: transparent;
+    padding: 0;
+  }
+
+  .skillsItems {
+    gap: 20px;
+  }
+
+  .skillsItem {
+    width: calc((100% - (3 - 1) * 20px) / 3); 
+  }
+}

@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Software Engineer Certificate",
+      "organisation": "HackerRank",
+      "date" : "May 2024",
+      "skills" : "Java, Problem Solving, RESTful API, SQL",
+      "link" : "https://drive.google.com/file/d/1wWVC1YNpbfVRzqT7Kb3WCMTOoFbp93_E/view?usp=sharing",
+      "imageSrc": "certificates/hackerrank.png"
+    },
+    {
+      "title": "Building Scalable Java Microservices with Spring Boot and Spring Cloud",
+      "organisation": "Google Cloud",
+      "date" : "Apr 2024",
+      "skills" : "Java, Spring Boot, Spring Cloud, Microservices",
+      "link" : "https://drive.google.com/file/d/1HBvigdL7iwCjRdYbk_BBA9flI-OjTVIZ/view?usp=sharing",
+      "imageSrc": "certificates/googlecloud.png"
+    },
+    {
+      "title": "Spring Boot Course : Certified Course for Essential Skills",
+      "organisation": "Scaler",
+      "date" : "Sep 2023",
+      "skills" : "Java, Spring Core, Spring Boot, Microservices",
+      "link" : "https://drive.google.com/file/d/1v-F5z2V0DABQl5O2piK_D1FX2OxqFruU/view?usp=sharing",
+      "imageSrc": "certificates/scaler.png"
+    },
+    {
+      "title": "Object Oriented Programming with Java",
+      "organisation": "Udemy",
+      "date" : "Jun 2020",
+      "skills" : "Core Java, OOP, Java 8, Collections Framework",
+      "link" : "https://drive.google.com/file/d/1sPwzEZZa1-VzmV3kBotM8AvUHk0jag_S/view?usp=sharing",
+      "imageSrc": "certificates/udemy.png"
+    }
+  ]
+  

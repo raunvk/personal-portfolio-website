@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Cinemint",
+    "imageSrc": "projects/cinemint.png",
+    "description": "Cinemint is a web application used to search movies, view trailers/clips and add reviews",
+    "skills": ["Java", "Spring Boot", "MongoB", "NodeJS", "ReactJS", "Material UI"],
+    "demo": "",
+    "source": "https://github.com/raunvk/movie-recommendation-app"
+  },
+  {
+    "title": "Dataview",
+    "imageSrc": "projects/dataview.png",
+    "description": "Dataview is a web application used to visualise large scale data in the form of charts",
+    "skills": ["Java", "Spring Boot", "Spring Batch", "MySQL", "ReactJS", "Bootstrap"],
+    "demo": "",
+    "source": "https://github.com/raunvk/data-visualisation-dashboard"
+  },
+  {
+    "title": "Nexscrap",
+    "imageSrc": "projects/nexscrap.png",
+    "description": "Dataview is a web application used to post ads in order to buy/sell domestic scrap items",
+    "skills": ["Python", "Django", "SQLite", "VanillaJS", "Bootstrap", "SCSS"],
+    "demo": "",
+    "source": "https://github.com/raunvk/scrap-ecommerce-website"
+  },
+  {
+    "title": "KYC Validator",
+    "imageSrc": "projects/kyc.png",
+    "description": "KYC is a backend application used to validate PAN/Aadhar card details of bank customers",
+    "skills": ["Java", "Spring Boot", "MySQL", "Eureka Server", "OpenFeign", "Resilience4J"],
+    "demo": "",
+    "source": "https://github.com/raunvk/bank-customer-services"
+  }
+]
