@@ -17,7 +17,9 @@ export const Skills = () => {
                 <img src={getImageUrl(skill.imageSrc)} alt={skill.title} onClick={() => window.open(skill.url, '_blank')}/>
               </div>
               <div>
-                <h3>{skill.title}</h3>
+                <a href={skill.url} target="_blank" rel="noopener noreferrer">
+                  <h3>{skill.title}</h3>
+                </a>
               </div>
             </div>
           ))}

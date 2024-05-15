@@ -64,6 +64,11 @@
   color: var(--color-text);
 }
 
+.skillsItem a {
+  text-decoration: none; 
+  color: inherit; 
+}
+
 .skillsItem img {
   max-width: 85%;
   max-height: 85%;
