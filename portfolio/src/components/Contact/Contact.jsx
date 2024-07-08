@@ -12,16 +12,16 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <a href="https://web.whatsapp.com/" target="_blank">
+          <a href="https://wa.me/+919831602488" target="_blank">
             <img src={getImageUrl("contact/whatsapp.png")} alt="Whatsapp" />
           </a>
-          <a href="https://web.whatsapp.com/" target="_blank">(+91) 9831602488</a>
+          <a href="https://wa.me/+919831602488" target="_blank">(+91) 9831602488</a>
         </li>
         <li className={styles.link}>
-          <a href="mailto:raunakdas.contact@gmail.com" target="_blank">
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=raunakdas.contact@gmail.com" target="_blank">
             <img src={getImageUrl("contact/email.png")} alt="Email" />
           </a>
-          <a href="mailto:raunakdas.contact@gmail.com" target="_blank">raunakdas.contact@email.com</a>
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=raunakdas.contact@gmail.com" target="_blank">raunakdas.contact@gmail.com</a>
         </li>
         <li className={styles.link}>
           <a href="https://www.linkedin.com/in/raunvk/" target="_blank">
