@@ -16,4 +16,4 @@
 
 **Sample Screenshots** :
 
-![](screenshot1.png)
+![](screenshot.png)
