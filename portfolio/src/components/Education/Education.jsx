@@ -22,16 +22,6 @@ export const Education = () => {
                   <h3>{`${educationItem.degree}, ${educationItem.major}`}</h3>
                   <p>{`${educationItem.university}, ${educationItem.startDate} - ${educationItem.endDate}`}</p>
                   <p>{`Cumulative GPA : ${educationItem.cgpa}`}</p>
-                  
-                  <ul style={{ listStyle: 'none', paddingLeft: 0 }}>
-                    {educationItem.details.map((detail, id) => {
-                      return (
-                        <li key={id} style={{ marginLeft: '-1em' }}>
-                          {`• ${detail}`}
-                        </li>
-                      );
-                    })}
-                  </ul>
                 </div>
               </li>
             );

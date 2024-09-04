@@ -1,12 +1,18 @@
 [
   {
+    "role": "Software Engineer",
+    "organisation": "Ciena",
+    "startDate": "Jul 2024",
+    "endDate": "Present",
+    "technologies" : "Spring, Neo4j, PostgreSQL, Angular",
+    "imageSrc": "experience/ciena.png"
+  },
+  {
     "role": "Full-Stack Developer",
     "organisation": "Freelance",
     "startDate": "Sep 2023",
-    "endDate": "Present",
-    "skills" : "Java, Spring Boot, ReactJS, Bootstrap, MongoDB",
-    "details": [
-    "Expanding skillset through freelance projects (Internshala/Snaphunt), while pursuing full-time opportunities"],
+    "endDate": "Jul 2024",
+    "technologies" : "Spring Boot, Microservices, MongoDB",
     "imageSrc": "experience/freelance.png"
   },
   {
@@ -14,9 +20,7 @@
     "organisation": "Deloitte",
     "startDate": "Aug 2022",
     "endDate": "Aug 2023",
-    "skills" : "Java, Spring Boot, JUnit, Swagger, MySQL",
-    "details": [
-    "Collaborated as a Microservices developer for a healthcare project, enabling diverse metric-based data retrieval"],
+    "technologies" : "Spring Boot, Microservices, MySQL",
     "imageSrc": "experience/deloitte.png"
   },
   {
@@ -24,9 +28,7 @@
     "organisation": "Infosys",
     "startDate": "Jan 2022",
     "endDate": "Jul 2022",
-    "skills" : "Java, Spring Boot, ReactJS, Bootstrap, MySQL",
-    "details": [
-      "Contributed as a Full-Stack Developer for an e-commerce project, handling both frontend and backend technologies"],
+    "technologies" : "Spring Boot, MySQL, HTML/CSS, Angular",
     "imageSrc": "experience/infosys.png"
   }
 ]

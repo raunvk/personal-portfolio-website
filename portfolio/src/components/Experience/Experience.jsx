@@ -21,16 +21,8 @@ export const Experience = () => {
                 <div className={styles.experienceItemDetails}>
                   <h3>{`${experienceItem.role}`}</h3>
                   <p>{`${experienceItem.organisation}, ${experienceItem.startDate} - ${experienceItem.endDate}`}</p>
-                  <p>{`Skills : ${experienceItem.skills}`}</p>
-                  <ul style={{ listStyle: 'none', paddingLeft: 0 }}>
-                    {experienceItem.details.map((detail, id) => {
-                      return (
-                        <li key={id} style={{ marginLeft: '-1em' }}>
-                          {`• ${detail}`}
-                        </li>
-                      );
-                    })}
-                  </ul>
+                  <p>{`Technologies : ${experienceItem.technologies}`}</p>
+                  
                 </div>
               </li>
             );

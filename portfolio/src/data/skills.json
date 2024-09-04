@@ -25,14 +25,9 @@
     "url": "https://swagger.io/"
   },
   {
-    "title": "NodeJS",
-    "imageSrc": "skills/node.png",
-    "url": "https://nodejs.org/en"
-  },
-  {
-    "title": "ReactJS",
-    "imageSrc": "skills/react.png",
-    "url": "https://react.dev/"
+    "title": "Angular",
+    "imageSrc": "skills/angular.png",
+    "url": "https://angular.dev/"
   },
   {
     "title": "HTML",
@@ -45,11 +40,6 @@
     "url": "https://css3.com/"
   },
   {
-    "title": "Bootstrap",
-    "imageSrc": "skills/bootstrap.png",
-    "url": "https://getbootstrap.com/"
-  },
-  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png",
     "url": "https://www.mongodb.com/"
@@ -60,9 +50,19 @@
     "url": "https://www.mysql.com/"
   },
   {
-    "title": "SQLite",
-    "imageSrc": "skills/sqlite.png",
-    "url": "https://www.sqlite.org/"
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png",
+    "url": "https://www.postgresql.org/"
+  },
+  {
+    "title": "Neo4J",
+    "imageSrc": "skills/neo4j.png",
+    "url": "https://neo4j.com/"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png",
+    "url": "https://graphql.org/"
   },
   {
     "title": "Git",
